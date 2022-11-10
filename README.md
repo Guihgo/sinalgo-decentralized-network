@@ -1,3 +1,14 @@
+## Decentralized Network
+
+### Run on Windows
+```CMD
+gradlew.bat run -PappArgs="['-project', 'decentralized']"
+```
+### Run on Linux
+```bash
+./gradlew run -PappArgs="['-project', 'decentralized']"
+```
+
 <img src="icon/sinalgo_512.png" width="100" height="100" align="right"/> 
 
 # Sinalgo - Simulator for Network Algorithms

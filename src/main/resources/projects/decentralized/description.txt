@@ -1,0 +1,7 @@
+This is a Decentralized Network
+
+Hot to use:
+    1. Add N Sensor nodes
+    2. Add some Sink nodes
+    3. Right Click on Sink > Start new Routing 
+    4. Run
